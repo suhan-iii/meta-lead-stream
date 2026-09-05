@@ -828,4 +828,4 @@ Then open `http://localhost:19006` in browser or scan QR code with Expo Go app.
 
 ---
 
-**Happy coding!** 🚀
+

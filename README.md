@@ -1,4 +1,4 @@
-# Meta Lead Stream POC
+# Meta Lead Stream 
 
 A proof-of-concept system that captures Meta (Facebook) Lead Ads in real-time and streams them to a mobile application via WebSocket. This project demonstrates a full-stack solution integrating Meta's Graph API, a FastAPI backend, and a React Native mobile frontend.
 
